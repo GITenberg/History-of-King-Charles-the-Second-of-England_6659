@@ -1,0 +1,27 @@
+_repo: History-of-King-Charles-the-Second-of-England_6659
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charles II, King of England, 1630-1685'
+- !lcc 'DA'
+title: History of King Charles the Second of England
+url: http://www.gutenberg.org/ebooks/6659
